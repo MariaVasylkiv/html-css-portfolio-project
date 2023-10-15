@@ -180,3 +180,12 @@ img {
     height: 100%;
     object-fit: cover;
   }
+
+  .project-list container {
+    text-align: center; /* Вирівнюємо зображення та підписи по центру */
+    margin-bottom: 20px; /* Додаємо відступ між фотографіями */
+  }
+  
+  .title-container {
+    margin-top: 5px; /* Додаємо невеликий відступ між зображенням і підписом */
+  }
