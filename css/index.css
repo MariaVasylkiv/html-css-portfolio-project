@@ -8,9 +8,10 @@
 
 :root {
     --text-color: rgb(240, 240, 240);
-    --accent-color: rgb(190, 49, 68);
-    --background-color: rgb(69, 86, 125);
-    --background-color-alternate: rgb(48, 56, 65);
+    --accent-color: rgb(28, 149, 209);
+    --background-color: rgb(39, 49, 59);
+    --background-color-alternate: rgb(30, 39, 47);
+    --button-hover-color: rgb(18, 117, 164);
     font-family: 'Raleway', sans-serif;
     scroll-behavior: smooth;
 }
@@ -181,7 +182,7 @@ img {
     object-fit: cover;
   }
 
-  .project-list container {
+  .project-list .container {
     text-align: center; /* Вирівнюємо зображення та підписи по центру */
     margin-bottom: 20px; /* Додаємо відступ між фотографіями */
   }
