@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
 
 * {
     margin: 0;
@@ -12,7 +12,7 @@
     --background-color: rgb(39, 49, 59);
     --background-color-alternate: rgb(30, 39, 47);
     --button-hover-color: rgb(18, 117, 164);
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Young Serif', serif;
     scroll-behavior: smooth;
 }
 
